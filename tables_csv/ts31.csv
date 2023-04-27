@@ -1,0 +1,44 @@
+tipo_renta;descripcion;articulo_ley;codigo_ocde
+1;Arrendamiento de predios;Art. 9ø a);6
+2;Enajenacion Inmuebles y derechos sobre inmuebles;Art. 9ø a);6
+3;Rentas de bienes situados en el pais o derechos utilizados en el pais, incluye enajenacion.;Art. 9ø b);12
+4;Regalias: Bienes o derechos por los que pagan son utilizados pais.;Art. 9ø b);12
+5;Regalias: Pagador de las regalias es domiciliado.;Art. 9ø b);12
+6;Por capitales,  intereses, comisiones, primas - operaciones financieras - capital utilizado en el pais o el pagador sea un sujeto domiciliado. Originadas por fondos de cualquier tipo de entidad, por cesion a terceros de un capital, por operaciones de capitalizacion o por contratos de seguro de vida o invalidez que no tengan su origen en el trabajo personal.;Art. 9ø c);11
+7;Dividendos y cualquier otra forma de distribucion de utilidades, cuando la empresa que los distribuye, pague y acredite se encuentre domiciliada en el pais, o cuando el fondo de inversion, patrimonio fideicometido o fiduciario banacario, fondo de pensiones, que lo distribuya, pague o acredite, se encuentre constituido o establecido en el pais;Art. 9ø d);10
+8;Los rendimientos de los ADR y GDRs que tengan como subyacentes acciones emitidas por empresas no domiciliadas;Art. 9ø d);10
+9;Originadas en actividades civiles, comerciales, empresariales o de cualquier indole, que se lleven a cabo en territorio nacional.;Art. 9ø e);21
+10;"Originadas en el trabajo personal que lleven a cabo en el territorio nacional No comprende cuando se ingresa al pais  temporalmente a efectuar: actos previos a la realizacion de inversiones extranjeras; actos destinados a supervisar o controlar la inversi¢n o el negocio, tales como los de recoleccion de datos o informacion o la realizaci¢n de entrevistas; actos relacionados con la contratacion de personal local; actos relacionados con la firma de convenios o actos similares. ";Art. 9ø f);15
+11;Rentas vitalicias y las pensiones que tengan su origen en el trabajo personal, pagadas por un sujeto domiciliada ;Art. 9ø g);18
+12;Las obtenidas por la enajenacion de acciones y participaciones representativas del capital,  cuando las empresas, que los hayan emitido esten constituidos o establecidos en el Peru. Fuera de Bolsa;Art. 9ø h);13
+13;Las obtenidas por la enajenacion,  de  certificados, titulos, bonos y papeles comerciales, valores representativos de cedulas hipotecarias, obligaciones al portador u otros valores al portador y otros valores mobiliarios cuando los  Fondos de Inversion, Fondos Mutuos de Inversion en Valores o Patrimonios Fideicometidos que los hayan emitido esten constituidos o establecidos en el Peru.  Fuera de Bolsa;Art. 9ø h);13
+14;Las obtenidas por la redencion o rescate de certificados, titulos, bonos y papeles comerciales, valores representativos de cedulas hipotecarias, obligaciones al portador u otros valores al portador y otros valores mobiliarios cuando los  Fondos de Inversion, Fondos Mutuos de Inversion en Valores o Patrimonios Fideicometidos que los hayan emitido esten constituidos o establecidos en el Peru.  Fuera de Bolsa;Art. 9ø h);13
+15;Las obtenidas por la enajenacion de acciones y participaciones representativas del capital, acciones de inversion, certificados, titulos, bonos y papeles comerciales, valores representativos de cedulas hipotecarias, obligaciones al portador u otros valores al portador y otros valores mobiliarios cuando las empresas, sociedades, Fondos de Inversion, Fondos Mutuos de Inversion en Valores o Patrimonios Fideicometidos que los hayan emitido est‚n constituidos o establecidos en el Peru.  Dentro de Bolsa;Art. 9ø h);13
+16;Las obtenidas por la redencion o rescate de  acciones de inversion, certificados, titulos, bonos y papeles comerciales, valores representativos de cedulas hipotecarias, obligaciones al portador u otros valores al portador y otros valores mobiliarios cuando las empresas, sociedades, Fondos de Inversion, Fondos Mutuos de Inversion en Valores o Patrimonios Fideicometidos que los hayan emitido est‚n constituidos o establecidos en el Peru. Dentro de Bolsa;Art. 9ø h);13
+18;Las obtenidas por servicios digitales prestados a traves del Internet o de cualquier adaptacion o aplicacion de los protocolos, plataformas o de la tecnologia utilizada por Internet o cualquier otra red a traves de la que se presten servicios equivalentes, cuando el servicio se utilice economicamente, use o consuma en el pais;Art. 9ø i);21
+19;La obtenida por asistencia tecnica, cuando esta se utilice economicamente en el pais;Art. 9ø j);7
+20;Los intereses de obligaciones, cuando la entidad emisora ha sido constituida en el pais;10 a);11
+21;"Remuneracion pagada por Domiciliados; Sujeto miembro de un consejo directivo o adm.; Actuacion en el Extranjero";10 b);16
+22;Honorarios o remuneraciones del Sector Publico Nacional por trabajos realizados en el exterior.;10 c);19
+23;Resultados Proveniente de la contratacion de IFD;10 d);7
+24;Resultados  de IFD con cobertura destinados a la generacion de RFP;10 d);7
+25;Proveniente de la contratacion de IFD sin cobertura destinados a la generacion de RFP;10 d);7
+26;IFD donde Activo subyacente sea referido al Tipo de Cambio Moneda extranjera. 180 dias. (La Dom es la prestadora del IFD, la No Dom es la que obtiene el resultado) ;10 d);7
+27;Las obtenidas por la enajenacion indirecta de acciones y participaciones representativas del capital de personas jur¡dicas domiciliadas en el pais, cuando la operacion cumple las condiciones para ser gravadas en el Peru;Art. 10ø e);13
+28;Se incluye dentro de la enajenacion de de empresas no domiciliadas en el pais la enajenacion de ADRïs (American Depositary Receipts) que tengan como subyacente a tales acciones.;Art. 10ø e);13
+29;Sujeto es el No Dom que distribuye  por la reduccion de capital dentro de los 12 meses anteriores cuando hubiera aumentado su capital como consecuencia de nuevos aportes, de capitalizacion de creditos o de una reorganizacion;Art. 10 f);10
+30;Actividades de Seguros 7% sobre las primas.Comisiones por  Reaseguros sobre personas y/o bienes radicados en el pais;Art. 12 y 48øa);07 - 21
+31;Alquiler de Naves, 8% sobre Ingresos Brutos que perciban por dicha actividad;Art. 12 y 48øb) ;8
+32;Alquiler de Aeronaves, 60% sobre Ingresos Brutos que perciban por dicha actividad;Art. 12 y 48ø c);8
+33;1% por el ingresos brutos por el transporte aereo.;Art. 12 y 48ø d);8
+34;Excepto Otros transportes no aereos o maritimos que van por los ingresos de la parte prestada en el pais;Art. 12 y 48ø d);8
+35;2% por el ingresos brutos por fletamiento o transporte maritimo. ;Art. 12 y 48ø d);8
+36;Empresas por reciprocidad en lineas extranjeras con sedes en esos paises;Art. 12 y 48ø d);24
+37;Servicio portadores, teleservicios o finales, difusion y de valor anadido. Con excepcion de los Servicios Digitales segun 4-A;Art 12  y 48øe);07 - 21
+38;10%. sobre las remuneraciones brutas que obtengan por el suministro de noticias y, en general material informativo o grafico, a personas o entidades domiciliadas o que utilicen dicho material en el pais.;Art 12  y 48ø f);07 - 21
+39;"para su utilizacion por personas naturales o juridicas domiciliadas: 20% sobre los ingresos brutos que perciban por el uso de peliculas cinematograficas o para television, ""video tape"", radionovelas, discos fonograficos, historietas graficas y cualquier otro medio similar de proyeccion, reproduccion, transmisi¢n o difusion de imagenes o sonidos.";Art 12  y 48ø g);07 - 21
+40;en el pais o desde el pais al exterior y no presten el servicio de transporte 15% de los ingresos brutos que obtengan por dicho suministro.;Art 12  y 48ø h);8
+41;80% de los ingresos brutos que obtengan por el exceso de estadia de contenedores.;Art 12  y 48ø i);07 - 21
+42;20% de los ingresos brutos que obtengan los contribuyentes no domiciliados por la cesion de derechos para la retransmision por televisi¢n en el pais de eventos en vivo realizados en el extranjero. ;Art 12  y 48ø j);07 - 21
+43;Extranjeros que ingresan al pais y cuentas con las siguientes calidades especificas a prestar servicios;Art. 13ø;15
+0;Bienes;;

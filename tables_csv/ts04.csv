@@ -1,0 +1,179 @@
+tipo_moneda;descripcion;zona_referencia
+AED;UAE Dirham;Emiratos Arabes Unidos
+AFN;Afghani;Afganistan
+ALL;Lek;Albania
+AMD;Armenian Dram;Armenia
+ANG;Netherlands Antillian Guilder;Antillas Holandesas
+AOA;Kwanza;Angola
+ARS;Argentine Peso;Argentina
+AUD;Australian Dollar;Australia
+AWG;Aruban Guilder;Aruba
+AZN;Azerbaijanian Manat;Azerbaiyan
+BAM;Convertible Marks;Bosnia y Herzegovina
+BBD;Barbados Dollar;Barbados
+BDT;Taka;Bangladesh
+BGN;Bulgarian Lev;Bulgaria
+BHD;Bahraini Dinar;Bahrein
+BIF;Burundi Franc;Burundi
+BMD;Bermudian Dollar (customarily known as Bermuda Dollar);Bermudas
+BND;Brunei Dollar;Brunei Darussalam
+BOB;Boliviano;Bolivia
+BOV;Mvdol;Bolivia
+BRL;Brazilian Real;Brasil
+BSD;Bahamian Dollar;Bahamas
+BTN;Ngultrum;Butan
+BWP;Pula;Botsuana
+BYR;Belarussian Ruble;Bielorrusia
+BZD;Belize Dollar;Belice
+CAD;Canadian Dollar;Canada
+CDF;Congolese Franc;Republica Democratica del Congo
+CHE;WIR Euro;Suiza
+CHF;Swiss Franc;Suiza
+CHW;WIR Franc;Suiza
+CLF;Unidades de fomento;Chile
+CLP;Chilean Peso;Chile
+CNY;Yuan Renminbi;China (Republica Popular)
+COP;Colombian Peso;Colombia
+COU;Unidad de Valor Real;Colombia
+CRC;Costa Rican Colon;Costa Rica
+CUC;Peso Convertible;Cuba
+CUP;Cuban Peso;Cuba
+CVE;Cape Verde Escudo;Cabo Verde
+CZK;Czech Koruna;Republica Checa
+DJF;Djibouti Franc;Yibuti
+DKK;Danish Krone;Dinamarca
+DOP;Dominican Peso;Republica Dominicana
+DZD;Algerian Dinar;Argelia
+EEK;Kroon;Estonia
+EGP;Egyptian Pound;Egipto
+ERN;Nakfa;Eritrea
+ETB;Ethiopian Birr;Etiopia
+EUR;Euro;Union Europea
+FJD;Fiji Dollar;Fiyi
+FKP;Falkland Islands Pound;Islas Malvinas
+GBP;Pound Sterling;Reino Unido
+GEL;Lari;Georgia
+GHS;Cedi;Ghana
+GIP;Gibraltar Pound;Gibraltar
+GMD;Dalasi;Gambia
+GNF;Guinea Franc;Guinea
+GTQ;Quetzal;Guatemala
+GYD;Guyana Dollar;Guyana
+HKD;Hong Kong Dollar;Hong Kong
+HNL;Lempira;Honduras
+HRK;Croatian Kuna;Croacia
+HTG;Gourde;Haiti
+HUF;Forint;Hungria
+IDR;Rupiah;Indonesia
+ILS;New Israeli Sheqel;Israel
+INR;Indian Rupee;India
+IQD;Iraqi Dinar;Iraq
+IRR;Iranian Rial;Iran
+ISK;Iceland Krona;Islandia
+JMD;Jamaican Dollar;Jamaica
+JOD;Jordanian Dinar;Jordania
+JPY;Yen;Japon
+KES;Kenyan Shilling;Kenia
+KGS;Som;Kirguistan
+KHR;Riel;Camboya
+KMF;Comoro Franc;Comoras
+KPW;North Korean Won;Corea (del Norte)
+KRW;Won;Corea (del Sur)
+KWD;Kuwaiti Dinar;Kuwait
+KYD;Cayman Islands Dollar;Islas Caiman
+KZT;Tenge;Kazajistan
+LAK;Kip;Laos
+LBP;Lebanese Pound;Libano
+LKR;Sri Lanka Rupee;Sri Lanka
+LRD;Liberian Dollar;Liberia
+LSL;Loti;Lesoto
+LTL;Lithuanian Litas;Lituania
+LVL;Latvian Lats;Letonia
+LYD;Libyan Dinar;Libia
+MAD;Moroccan Dirham;Marruecos
+MDL;Moldovan Leu;Moldavia
+MGA;Malagasy Ariary;Madagascar
+MKD;Denar;Macedonia
+MMK;Kyat;Myanmar (Birmania)
+MNT;Tugrik;Mongolia
+MOP;Pataca;Macao
+MRO;Ouguiya;Mauritania
+MUR;Mauritius Rupee;Mauricio
+MVR;Rufiyaa;Maldivas
+MWK;Kwacha;Malaui
+MXN;Mexican Peso;Mexico
+MXV;Mexican Unidad de Inversion (UDI);Mexico
+MYR;Malaysian Ringgit;Malasia
+MZN;Metical;Mozambique
+NAD;Namibia Dollar;Namibia
+NGN;Naira;Nigeria
+NIO;Cordoba Oro;Nicaragua
+NOK;Norwegian Krone;Noruega
+NPR;Nepalese Rupee;Nepal
+NZD;New Zealand Dollar;Nueva Zelanda
+OMR;Rial Omani;Oman
+PAB;Balboa;Panama
+PEN;Nuevo Sol o Sol;Peru
+PGK;Kina;Papua Nueva Guinea
+PHP;Philippine Peso;Filipinas
+PKR;Pakistan Rupee;Pakistan
+PLN;Zloty;Polonia
+PYG;Guarani;Paraguay
+QAR;Qatari Rial;Qatar
+RON;New Leu;Rumania
+RSD;Serbian Dinar;Serbia
+RUB;Russian Ruble;Rusia
+RWF;Rwanda Franc;Ruanda
+SAR;Saudi Riyal;Arabia Saudita
+SBD;Solomon Islands Dollar;Islas Salomon
+SCR;Seychelles Rupee;Seychelles
+SDG;Sudanese Pound;Sudan
+SEK;Swedish Krona;Suecia
+SGD;Singapore Dollar;Singapur
+SHP;Saint Helena Pound;Santa Helena
+SLL;Leone;Sierra Leona
+SOS;Somali Shilling;Somalia
+SRD;Surinam Dollar;Surinam
+STD;Dobra;Santo Tome y Principe
+SVC;El Salvador Colon;El Salvador
+SYP;Syrian Pound;Siria
+SZL;Lilangeni;Suazilandia
+THB;Baht;Tailandia
+TJS;Somoni;Tayikistan
+TMT;Manat;Turkmenistan
+TND;Tunisian Dinar;Tunez
+TRY;Turkish Lira;Turquia
+TTD;Trinidad and Tobago Dollar;Trinidad y Tobago
+TWD;New Taiwan Dollar;Taiwan
+TZS;Tanzanian Shilling;Tanzania
+UAH;Hryvnia;Ucrania
+UGX;Uganda Shilling;Uganda
+USD;US Dollar;Estados Unidos (EEUU)
+USN;US Dollar (Next day);Estados Unidos (EEUU)
+USS;US Dollar (Same day);Estados Unidos (EEUU)
+UYI;Uruguay Peso en Unidades Indexadas;Uruguay
+UYU;Peso Uruguayo;Uruguay
+UZS;Uzbekistan Sum;Uzbekistan
+VEF;Bolivar Fuerte;Venezuela
+VND;Dong;Vietnam
+VUV;Vatu;Vanuatu
+WST;Tala;Samoa del Oeste
+XAF;CFA Franc BEAC;
+XAG;Silver;
+XAU;Gold;
+XBB;European Monetary Unit (E.M.U.-6);
+XBC;European Unit of Account 9(E.U.A.-9);
+XBD;European Unit of Account 17(E.U.A.-17);
+XCD;East Caribbean Dollar;
+XDR;SDR;
+XFU;UIC-Franc;
+XOF;CFA Franc BCEAO;
+XPD;Palladium;
+XPF;CFP Franc;
+XPT;Platinum;
+YER;Yemeni Rial;Yemen
+ZAR;Rand;Sudafrica
+ZMK;Zambian Kwacha;Zambia
+ZWL;Zimbabwe Dollar;Zimbabue
+XBA;Bond Markets Units European Composite Unit (EURCO);
+TOP;Pa anga;Tonga
