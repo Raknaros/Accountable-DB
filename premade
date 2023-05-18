@@ -1,1 +1,20 @@
 pendiente comparar exportado con oficina_data
+
+
+--Trigger/Insertar CUI en subdiarios 2, 5 y 8.
+
+--Trigger/Insertar cobro o pago según normativa de utilización de medios de pago (3500  antes del 01/04/2021, 2000 despues de esa fecha), descontando detraccion. 
+
+--Trigger/Llenar tabla related con RUCs relaccionados no registrados.
+
+--Trigger/Registrar cambios realizados.
+
+--Trigger/Tratamiento de no domiciliados sin documento.
+
+--Trigger/Insertar registros de comercio exterior importacion/exportacion.
+
+--Trigger/Insertar pre registro de detraccion.
+
+--Trigger/Borrar registros relacionados por anulacion de operacion.
+
+--Trigger/Actualizar cui principal y relacionados.
