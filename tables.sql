@@ -116,7 +116,7 @@ CREATE TABLE acc._6 (
 	descripcion VARCHAR,
 	unidad_medida VARCHAR,
 	cantidad INTEGER,
-	precio_unitario	valor DEC(10,2),
+	precio_unitario	DEC(10,2),
 	tipo_documento_referencia INTEGER REFERENCES TS10(tipo_comprobante) ON DELETE SET NULL,
 	numero_documento_referencia VARCHAR,
 	observaciones VARCHAR,
