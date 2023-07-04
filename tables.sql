@@ -69,6 +69,25 @@ CREATE TABLE acc._2 (
 	cui_relacionado VARCHAR,
 	observaciones VARCHAR);
 CREATE TABLE acc._3 (
+	id BIGSERIAL PRIMARY KEY,
+	entity_id INTEGER REFERENCES entities(entity_id) ON DELETE SET NULL,
+	subdiario INTEGER REFERENCES subdiary(codigo) ON DELETE SET NULL DEFAULT 3,
+	periodo_tributario INTEGER,
+	cui_relacionado VARCHAR UNIQUE,
+	correlativo_asiento VARCHAR,
+	tipo_moneda VARCHAR REFERENCES TS04(tipo_moneda) ON DELETE SET NULL,
+	tipo_documento VARCHAR REFERENCES TS02(tipo_documento) ON DELETE SET NULL,
+	numero_documento VARCHAR,
+	tipo_comprobante INTEGER REFERENCES TS10(tipo_comprobante) ON DELETE SET NULL,
+	numero_serie VARCHAR,
+	numero_correlativo VARCHAR,
+	fecha_contable DATE,
+	fecha_emision DATE,
+	fecha_vencimiento DATE,
+	descripcion VARCHAR,
+	glosa VARCHAR,
+	debe DEC(10,2),
+	haber DEC(10,2),	
 );
 CREATE TABLE acc._4 (
 );
